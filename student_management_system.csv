@@ -1,0 +1,15 @@
+Key,Issue Type,Parent,Summary,Status,Assignee,Sprint,Start date,Inferred start date,Due date,Inferred due date,Issue color
+SCRUM-17,Epic,,Epic 2: Profile Management,Done,,,5/16/2025,5/16/2025,5/22/2025,5/22/2025,yellow
+SCRUM-25,Story,SCRUM-17,"As a student, I want to view my personal data.",Done,Faisal khan,,5/27/2025,,5/28/2025,,purple
+SCRUM-18,Epic,,Epic 6: System Testing,Done,,,5/14/2025,5/14/2025,5/28/2025,5/28/2025,dark_green
+SCRUM-19,Epic,,Epic 1: Student Authentication,Done,Faisal khan,,5/20/2025,5/20/2025,5/28/2025,5/28/2025,dark_blue
+SCRUM-24,Story,SCRUM-19,"As a student, I want to log in using my ID and password so that I can access my profile securely.  ",Done,Faisal khan,,5/27/2025,,5/28/2025,,purple
+SCRUM-29,Task,SCRUM-19,Task: Design Login Page,To Do,Faisal khan,,5/27/2025,,5/28/2025,,purple
+SCRUM-31,Bug,SCRUM-19,After the login the profile page not working properly ,In Progress,Faisal khan,,5/26/2025,,,,purple
+SCRUM-20,Epic,,Epic 3: Attendance Tracking,Done,Faisal khan,,5/23/2025,5/23/2025,5/28/2025,5/28/2025,purple
+SCRUM-26,Story,SCRUM-20,view attendance records.,Done,Faisal khan,,5/27/2025,,5/28/2025,,purple
+SCRUM-30,Bug,SCRUM-20,🐞 Bug: Attendance Records Not Displaying Correctly,To Do,Faisal khan,,5/27/2025,,5/28/2025,,purple
+SCRUM-21,Epic,,Epic 4: Grade Viewing,Done,Faisal khan,,5/15/2025,5/15/2025,5/28/2025,5/28/2025,grey
+SCRUM-27,Story,SCRUM-21,view Grades of marks,Done,Faisal khan,,5/20/2025,,5/28/2025,,purple
+SCRUM-28,Task,SCRUM-21,Task: Display Grades on Dashboard,Done,Faisal khan,,5/20/2025,,5/28/2025,,purple
+SCRUM-22,Epic,,Epic 5: UI Design,Done,Faisal khan,,5/24/2025,5/24/2025,5/28/2025,5/28/2025,dark_purple
